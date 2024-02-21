@@ -1,1 +1,2 @@
-B = 2
+def help():
+    print("You've been helped")
